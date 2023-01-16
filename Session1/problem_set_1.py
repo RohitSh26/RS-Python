@@ -5,7 +5,7 @@ import random
 # randint is a method that Return random integer in range [a, b], including both end points.
 randomNumber = random.randint(1, 1000)
 
-# Now we print out rando, number
+# Now we print out random number
 print(f"Generated Random Number is {randomNumber}")
 
 # add logic to compare if numner is even or odd
