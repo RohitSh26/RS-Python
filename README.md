@@ -34,14 +34,15 @@ Session 8: Python - Testing your code, Debugging, Exceptions and Assertions
 Session 9: Python - Object Oriented Programming
 ```
 ```
-Session 10: Python - Learn by Coding 1
+Session 10: Python - Learn by Programming 1
 ```
 ```
-Session 11: Python - Learn by Coding 1
+Session 11: Python - Learn by Programming 2
 ```
 ```
 Session 12: Python - Final Challenge and Interview Guidelines
 ```
+
 ## Notes
 ```code
 Each session will have problem sets that students must solve.
