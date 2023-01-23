@@ -1,6 +1,8 @@
 # Introdroduction to Computer Science with Python
 #### This course will introduce you to computation, computational thinking. Programming language with an emphasis on basic python syntax and data structure.
 
+##### This is a free course, I prepare, teach and guide at my free time.
+
 ## Course Details
 
 ```
